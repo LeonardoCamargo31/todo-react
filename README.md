@@ -15,4 +15,4 @@
 ```npm run dev```
 
 **Ver projeto no ar**
-*https://todolist-api-rest.herokuapp.com*
+*https://todo-list-reactjs.herokuapp.com/*
